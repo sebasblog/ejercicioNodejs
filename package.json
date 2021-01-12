@@ -1,0 +1,15 @@
+{
+  "name": "3.git_node",
+  "version": "1.0.0",
+  "description": "proyecto de node con github",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
